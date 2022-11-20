@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Erickuby
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning HTML, CSS and Java
 - 💞️ I’m looking to collaborate on learning how to code faster
